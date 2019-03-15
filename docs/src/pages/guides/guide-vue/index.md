@@ -12,6 +12,9 @@ If it failed because it couldn't detect you're using vue, you could try forcing 
 npx -p @storybook/cli sb init --type vue
 ```
 
+## Automatic Setup for Vue CLI 3
+If your project is using `@vue/cli`, you can use this handy [plugin](https://github.com/storybooks/vue-cli-plugin-storybook) to add Storybook to your project.
+
 ## Manual setup
 
 If you want to set up Storybook manually for your Vue project, this is the guide for you.
